@@ -1,13 +1,13 @@
 {
-  "main.css": "/tokenURI-creator/static/css/main.a79195b2.chunk.css",
-  "main.js": "/tokenURI-creator/static/js/main.c7c064f1.chunk.js",
-  "main.js.map": "/tokenURI-creator/static/js/main.c7c064f1.chunk.js.map",
-  "static/js/1.2345c89c.chunk.js": "/tokenURI-creator/static/js/1.2345c89c.chunk.js",
-  "static/js/1.2345c89c.chunk.js.map": "/tokenURI-creator/static/js/1.2345c89c.chunk.js.map",
-  "runtime~main.js": "/tokenURI-creator/static/js/runtime~main.a5177fc0.js",
-  "runtime~main.js.map": "/tokenURI-creator/static/js/runtime~main.a5177fc0.js.map",
-  "static/css/main.a79195b2.chunk.css.map": "/tokenURI-creator/static/css/main.a79195b2.chunk.css.map",
-  "index.html": "/tokenURI-creator/index.html",
-  "precache-manifest.e9e304c89625d129814e10158e7f973c.js": "/tokenURI-creator/precache-manifest.e9e304c89625d129814e10158e7f973c.js",
-  "service-worker.js": "/tokenURI-creator/service-worker.js"
+  "main.css": "/tokenURI-creator-page/static/css/main.a382f4e7.chunk.css",
+  "main.js": "/tokenURI-creator-page/static/js/main.f4274b81.chunk.js",
+  "main.js.map": "/tokenURI-creator-page/static/js/main.f4274b81.chunk.js.map",
+  "static/js/1.7e73ee8d.chunk.js": "/tokenURI-creator-page/static/js/1.7e73ee8d.chunk.js",
+  "static/js/1.7e73ee8d.chunk.js.map": "/tokenURI-creator-page/static/js/1.7e73ee8d.chunk.js.map",
+  "runtime~main.js": "/tokenURI-creator-page/static/js/runtime~main.35e213e6.js",
+  "runtime~main.js.map": "/tokenURI-creator-page/static/js/runtime~main.35e213e6.js.map",
+  "static/css/main.a382f4e7.chunk.css.map": "/tokenURI-creator-page/static/css/main.a382f4e7.chunk.css.map",
+  "index.html": "/tokenURI-creator-page/index.html",
+  "precache-manifest.798da7593cc656000092f1174936f058.js": "/tokenURI-creator-page/precache-manifest.798da7593cc656000092f1174936f058.js",
+  "service-worker.js": "/tokenURI-creator-page/service-worker.js"
 }
