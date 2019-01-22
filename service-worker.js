@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tokenURI-creator-page/precache-manifest.798da7593cc656000092f1174936f058.js"
+  "/tokenURI-creator/precache-manifest.7d33d85475a62808e1bd7dc2118b3bb0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tokenURI-creator-page/index.html", {
+workbox.routing.registerNavigationRoute("/tokenURI-creator/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
